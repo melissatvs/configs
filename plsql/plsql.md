@@ -4,3 +4,4 @@
 
 [AutoReplace](auto-replace.md)
 
+[Beautifier](beautifier.md)
