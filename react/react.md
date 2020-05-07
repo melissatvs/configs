@@ -4,7 +4,6 @@
 
 ## Comandos úteis
 
-
 ### Instalar dependências
 
 `npm install [nome-da-dependência]`
@@ -16,3 +15,8 @@
 ### Iniciar o projeto (abre o navegador)
 
 `npm start`
+
+
+## Dependências úteis
+
+### React Icons
