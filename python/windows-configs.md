@@ -27,7 +27,7 @@ Passo a passo para um ambiente similar ao que usei no AceleraDev Python da Stone
 4. Caso o VS Code te dê instruções para instalar mais alguma extensão ou complemento, siga as intruções dele.
 
 
-Esta feito! já é possível fazer o primeiro "Hello World!"
+Está feito! Já é possível fazer o primeiro "Hello World!"
 
 
 ## Bônus - Configurar Virtualenv
