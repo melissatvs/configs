@@ -8,7 +8,7 @@
 
 > **Como mudar configurações no VS Code?**
 >
-> use o atalho <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> e busque por Settings e escolha a opção da imagem abaixo:
+> use o atalho <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> e busque por "Settings" e escolha a opção da imagem abaixo:
 > 
 > ![vs-code-pylint-docstrings](/assets/vs-code-pylint-docstrings.png)
 
@@ -22,6 +22,7 @@
 > **Códigos do Exemplo**
 >
 > C0111: Missing %s docstring
+>
 > C0112: Empty %s docstring
 >
 > Para mais informações sobre todos os códigos, ver na documentação [PyLint Messages](http://pylint-messages.wikidot.com/all-codes)
