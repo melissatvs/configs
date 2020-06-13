@@ -1,6 +1,6 @@
 [Ir para Python](python.md)
 
-# PyLint + VS Code
+# VS Code + PyLint
 
 ## Desabilitar *hint* de docstrings
 
@@ -12,7 +12,7 @@
 > 
 > ![vs-code-pylint-docstrings](/assets/vs-code-pylint-docstrings.png)
 
-2. Inserir os códigos que te avisam que você não inseriu *docstrings*:
+2. Inserir os códigos que te avisam que você não usou *docstrings*:
 
 ```
 "python.linting.pylintArgs": [
