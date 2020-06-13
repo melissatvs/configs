@@ -4,4 +4,6 @@
 
 [Configurações no Windows](windows-configs.md)
 
-[PyLint + VS Code - Desabilitar *Hint* de Docstrings](pylint-docstrings.md)
+[VS Code + PyLint - Desabilitar *Hint* de Docstrings](pylint-docstrings.md)
+
+[VS Code + PyLint + Django - Resolver "Class X has no 'objects' member"](pylint-django.md)
