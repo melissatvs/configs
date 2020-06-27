@@ -10,7 +10,7 @@
 >
 > use o atalho <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> e busque por Settings e escolha a opção da imagem abaixo:
 > 
-> ![vs-code-pylint-docstrings](/assets/vs-code-pylint-docstrings.png)
+> ![vs-code-pylint-docstrings](img/vs-code-pylint-docstrings.png)
 
 2. Inserir os códigos que te avisam que você não inseriu *docstrings*:
 
